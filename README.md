@@ -26,7 +26,7 @@ To run the Streamlit app, use the following command:
 
 ```bash
 streamlit run main.py
-
+ ```
 
 # Bike Rental Data Description
 Data Set Information:
