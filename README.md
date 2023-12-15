@@ -30,8 +30,8 @@ streamlit run main.py
 
 # Bike Rental Data Description
 Data Set Information:
-instant: record index
-dteday : date
+* instant: record index
+* dteday : date
 season : season (1:springer, 2:summer, 3:fall, 4:winter)
 yr : year (0: 2011, 1:2012)
 mnth : month ( 1 to 12)
