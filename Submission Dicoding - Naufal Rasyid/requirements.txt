@@ -1,0 +1,6 @@
+*!pipreqs: Generate requirements.txt File for Any Project Based on Imports
+
+matplotlib==3.7.1
+pandas==1.5.3
+seaborn==0.13.0
+streamlit==1.29.0
